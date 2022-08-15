@@ -12,6 +12,6 @@ public class Day2GitHub {
         git remote add origin -adress-
         
          */
-        ekleeme yaptım gördünmü
+        ekleeme yaptım gördünmü niye çalışmıyor
     }
 }
