@@ -10,6 +10,7 @@ public class Day2GitHub {
         4-) git push --> Uzak repo'ya (Yani remote -Github) gondermek icin kullandigimiz kod.
         Yalniz git push komutunu direk kullanmak istersek bir kez :
         git remote add origin -adress-
+        ekleeme yaptım
          */
     }
 }
